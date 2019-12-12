@@ -95,7 +95,7 @@ body {
   height: 15%;
   grid-column: 4/5;
   grid-row: 3/4;
-  /* visibility: hidden; */
+  visibility: hidden;
 }
 
 #monkey1:hover {
